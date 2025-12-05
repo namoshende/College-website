@@ -86,9 +86,9 @@
     font-size: 24px;
     transition: 0.3s;
     }
-    .social-links a:hover {
+    /* .social-links a:hover {
     color: #7c5cff; 
-    }
+    } */
     .faculty-img {
             width: 120px;
             height: 120px;
